@@ -3,9 +3,10 @@
 ## Nue the Unidentified / 正体不明の鵺
 
 > **Nue the Unidentified** (2)(U)(B)
+>
 > Creature — Spirit
 >
-> At the beginning of your upkeep, discard a card. If this card is permanent card, Nue the Unidentified become a copy of this card, except it has this ability. If this card isn't, discard all the cards in your hand.
+> At the beginning of your upkeep, discard a card. If the card is a permanent card, Nue the Unidentified become a copy of the card, except it has this ability. If the card isn't, exile all the cards in your hand.
 >
 > 2 / 2
 
