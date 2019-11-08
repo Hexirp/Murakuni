@@ -6,7 +6,7 @@
 >
 > Creature — Spirit
 >
-> At the beginning of your upkeep, discard a card. If the card is a permanent card, Nue the Unidentified become a copy of the card, except it has this ability. If the card isn't, exile all the cards in your hand.
+> At the beginning of your upkeep, discard a card. If the card is a permanent card, Nue the Unidentified become a copy of the card, except it has this ability. Otherwise, exile all the cards in your hand.
 >
 > 2 / 2
 
@@ -14,7 +14,7 @@
 >
 > クリーチャー — スピリット
 >
-> あなたのアップキープの開始時に、カードを 1 枚捨てる。そのカードがパーマネント・カードであるなら、正体不明の鵺は、それがこの能力を持つことを除き、そのカードのコピーになる。そのカードがそうでないなら、あなたの手札をすべて追放する。
+> あなたのアップキープの開始時に、カードを 1 枚捨てる。そのカードがパーマネント・カードであるなら、正体不明の鵺は、それがこの能力を持つことを除き、そのカードのコピーになる。そうでないなら、あなたの手札をすべて追放する。
 >
 > 2 / 2
 
