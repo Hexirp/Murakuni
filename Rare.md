@@ -2,7 +2,7 @@
 
 ## Kimi of Daytime
 
-> **Kimi of Daytime** (5)(G)(W)
+> **Kimi of Daytime** (4)(G)(W)
 >
 > Legendary Creature — Spirit
 >
@@ -16,7 +16,7 @@
 >
 > At the beginning of the end step, transform Kimi of Daytime.
 >
-> 7/7
+> 7 / 7
 >
 > **Kimi of Nighttime**
 >
@@ -32,4 +32,4 @@
 >
 > At the beginning of the end step, transform Kimi of Nighttime.
 >
-> 5/7
+> 5 / 7
