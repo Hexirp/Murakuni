@@ -3,7 +3,7 @@
 ## Nue the Unidentified / 正体不明の鵺
 
 > **Nue the Unidentified** (2)(U)(B)
-> Legendary Creature — Spirit
+> Creature — Spirit
 >
 > At the beginning of your upkeep, discard a card. If this card is permanent card, Nue the Unidentified become a copy of this card, except it has this ability. If this card isn't, discard all the cards in your hand.
 >
