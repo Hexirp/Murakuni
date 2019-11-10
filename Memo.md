@@ -48,3 +48,8 @@ Ootsuka, Great Teacher
 源泉地
 行者 (W)(U)
 烏天狗 (W)(U)(B)
+
+
+鬼 (G)(W)(B)
+狐 (W)(U)(B)
+河童 (...
