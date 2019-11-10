@@ -6,7 +6,7 @@
 >
 > Legendary Creature — Spirit
 >
-> At the beginning of your upkeep, Kimi of Daytime gains indestructible untile end of turn.
+> At the beginning of your upkeep, Kimi of Daytime gains indestructible until end of turn.
 >
 > Whenever Ookami of Sun attacks, put two charge counters on Ookami of Sun.
 >
