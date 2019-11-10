@@ -1,5 +1,25 @@
 # Rare
 
+## Ookami of Sun
+
+> **Ookami of Sun** (4)(R)(G)(W)
+>
+> Legendary Creature — Spirit
+>
+> At the beginning of your upkeep, Kimi of Daytime gains indestructible untile end of turn.
+>
+> Whenever Ookami of Sun attacks, put two charge counters on Ookami of Sun.
+>
+> Remove a charge counter from Ookami of Sun: Choose one —
+>
+> • Ookami of Sun deals 3 damage to any target.
+>
+> • Target creature gets +3/+3 until end of turn.
+>
+> • Creatures you control get +1/+1.
+>
+> 6 / 6
+
 ## Kimi of Daytime
 
 > **Kimi of Daytime** (5)(G)(W)
