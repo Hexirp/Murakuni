@@ -1,6 +1,6 @@
 # Uncommon
 
-## Sky to Sky / 空合わせ
+## Sky to Sky / 空合わせ（そらあわせ）
 
 > **Sky to Sky** (4)
 >
@@ -24,7 +24,7 @@
 
 イラストでは、下にある都の、その幻影が空に映し出されている。まるで空が水鏡になったかのようである。
 
-## Nue the Unidentified / 正体不明の鵺
+## Nue the Unidentified / 正体不明の鵺（しょうたいふめいのぬえ）
 
 > **Nue the Unidentified** (2)(U)(B)
 >
@@ -48,7 +48,7 @@
 
 ただ、少しデメリットがきつすぎるかもしれない。こういうデメリットは例がないみたいだけど、おそらく重すぎるのだと思う。
 
-## Sway of the Stars / 星の揺らぎ
+## Sway of the Stars / 星の揺らぎ（ほしのゆらぎ）
 
 > **Sway of the Stars** (8)(U)(U)
 >
