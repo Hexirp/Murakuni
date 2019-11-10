@@ -70,6 +70,4 @@
 >
 > Land
 >
-> (T): Add (C).
->
 > (T): Add (W)(W) of (U)(U). Lake Cloud doesn't untap during your next untap step.
