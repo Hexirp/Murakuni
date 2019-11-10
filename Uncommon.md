@@ -6,7 +6,7 @@
 >
 > Creature — Spirit
 >
-> At the beginning of your upkeep, discard a card. If the card is a permanent card, Nue the Unidentified become a copy of the card, except it has this ability. Otherwise, exile all the cards in your hand.
+> At the beginning of your upkeep, discard a card. If the card is a permanent card, Nue the Unidentified become a copy of the card, except it has this ability. Otherwise, exile your hand and Nue the Unidentified.
 >
 > 2 / 2
 
@@ -14,13 +14,13 @@
 >
 > クリーチャー — スピリット
 >
-> あなたのアップキープの開始時に、カードを 1 枚捨てる。そのカードがパーマネント・カードであるなら、正体不明の鵺は、それがこの能力を持つことを除き、そのカードのコピーになる。そうでないなら、あなたの手札をすべて追放する。
+> あなたのアップキープの開始時に、カードを 1 枚捨てる。そのカードがパーマネント・カードであるなら、正体不明の鵺は、それがこの能力を持つことを除き、そのカードのコピーになる。そうでないなら、あなたの手札と正体不明の鵺を追放する。
 >
 > 2 / 2
 
 日本の妖怪である鵺が元になっている。
 
-正体不明ということで、常に姿が変わり続ける能力を持たせた。そのデメリットとして、手札を常に捨て続けなければならない。悪用されることを防ぐために、パーマネントでないカードが捨てられた場合に手札を全て追放するようにした。
+正体不明ということで、常に姿が変わり続ける能力を持たせた。そのデメリットとして、手札を常に捨て続けなければならない。悪用されることを防ぐために、パーマネントでないカードが捨てられた場合に手札を全て追放するようにした。初めは鵺は残り続けるようにしたけど、さすがにひどすぎる気がしたのでまとめて追放されるようにした。
 
 ただ、少しデメリットがきつすぎるかもしれない。こういうデメリットは例がないみたいだけど、おそらく重すぎるのだと思う。
 
