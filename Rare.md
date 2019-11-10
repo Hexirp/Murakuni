@@ -1,19 +1,5 @@
 # Rare
 
-## Sway of the Stars / 星の揺らぎ
-
-> **Sway of the Stars** (8)(U)(U)
->
-> Sorcery
->
-> Each player shuffles their hand, graveyard, and all permanents they own into their library, then draws seven cards. Each player's life total becomes 7.
-
-> **星の揺らぎ** (8)(U)(U)
->
-> ソーサリー
->
-> 各プレイヤーは、自分がオーナーである手札と墓地とすべてのパーマネントを、自分のライブラリーに加えて切り直し、カードを 7 枚引く。各プレイヤーのライフの総量は 7 になる。
-
 ## Kimi of Daytime
 
 > **Kimi of Daytime** (5)(G)(W)
