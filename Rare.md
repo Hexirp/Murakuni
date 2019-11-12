@@ -26,17 +26,17 @@
 >
 > Legendary Creature — Spirit
 >
-> At the beginning of your upkeep, Kimi of Daytime gains indestructible until end of turn.
+> Ookami of Sun has indestructible as long as it has a divinity counter on it.
 >
-> Whenever Ookami of Sun attacks, put two charge counters on Ookami of Sun.
+> Whenever Ookami of Sun enters the battlefield or attacks, put two divinity counters on Ookami of Sun.
 >
-> Remove a charge counter from Ookami of Sun: Choose one —
+> Remove a divinity counter from Ookami of Sun: Choose one —
 >
 > • Ookami of Sun deals 3 damage to any target.
 >
 > • Target creature gets +3/+3 until end of turn.
 >
-> • Creatures you control get +1/+1.
+> • Put a +1/+1 counter on each creature you control.
 >
 > 6 / 6
 
