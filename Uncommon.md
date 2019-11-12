@@ -70,11 +70,15 @@
 >
 > Land
 >
+> Lake Cloud enters the battlefield tapped.
+>
 > (T): Add (W)(W), (W)(U), or (U)(U). Lake Cloud doesn't untap during your next untap step.
 
 > 湖雲
 >
 > 土地
+>
+> 湖雲はタップ状態で戦場に出る。
 >
 > (T): (W)(W) か (W)(U) か (U)(U) を加える。湖雲は、あなたの次のアンタップ・ステップの間にアンタップしない。
 
@@ -88,26 +92,34 @@
 >
 > Land
 >
+> Mud River enters the battlefield tapped.
+>
 > (T): Add (U)(U), (U)(B), or (B)(B). Mud River doesn't untap during your next untap step.
 
 > 泥川
 >
 > 土地
 >
+> 泥川はタップ状態で戦場に出る。
+>
 > (T): (U)(U) か (U)(B) か (B)(B) を加える。泥川は、あなたの次のアンタップ・ステップの間にアンタップしない。
 
 泥川は、地上から噴き出した熱い泥が冷め、地下へ流れ戻っていく川である。その流れはゆっくりしたものであり、勾配は非常に急なものである。
 
-## Hot Quag / 熱泥地（ねっでいち）
+## Hot Quag / 熱泥地（ねつでいち）
 
 > Hot Quag
 >
 > Land
+>
+> Hot Quag enters the battlefield tapped.
 >
 > (T): Add (B)(B), (B)(R), or (R)(R). Mud River doesn't untap during your next untap step.
 
 > 熱泥地
 >
 > 土地
+>
+> 熱泥地はタップ状態で戦場に出る。
 >
 > (T): (B)(B) か (B)(R) か (R)(R) を加える。熱泥地は、あなたの次のアンタップ・ステップの間にアンタップしない。
