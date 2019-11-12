@@ -70,13 +70,13 @@
 >
 > Land
 >
-> (T): Add (W)(W) of (U)(U). Lake Cloud doesn't untap during your next untap step.
+> (T): Add (W)(W), (W)(U), or (U)(U). Lake Cloud doesn't untap during your next untap step.
 
 > 湖雲
 >
 > 土地
 >
-> (T): (W)(W) か (U)(U) を加える。湖雲は、あなたの次のアンタップ・ステップの間にアンタップしない。
+> (T): (W)(W) か (W)(U) か (U)(U) を加える。湖雲は、あなたの次のアンタップ・ステップの間にアンタップしない。
 
 二色土地兼マナ加速。お休みランド。最初はデメリットなしに無色マナを出せるようにしていたが、強すぎる気がしたのでやめた。これがどうなるのかは実際にやってみないとわからないと思う。
 
@@ -88,6 +88,6 @@
 >
 > Land
 >
-> (T): Add (U)(U) or (B)(B). Mud River doesn't untap during your next untap step.
+> (T): Add (U)(U), (U)(B), or (B)(B). Mud River doesn't untap during your next untap step.
 
 泥川は、地上から噴き出した熱い泥が冷め、地下へ流れ戻っていく川である。その流れはゆっくりしたものであり、勾配は非常に急なものである。
