@@ -103,3 +103,8 @@ The Princess of Moon
 Turn target permanent face down.
 Transform target permanent.
 Target creature gets -5/-5 until end of turn.
+
+
+お休みランドの対策には (1) マナ支払わせる呪文を使えばよい。お休みランドには強力。
+
+夜の君、代替コストで唱えたときも、自分の誘発能力を自分で打ち消せば変身しないじゃん。強いか？
