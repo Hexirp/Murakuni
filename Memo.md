@@ -53,3 +53,53 @@ Ootsuka, Great Teacher
 鬼 (G)(W)(B)
 狐 (W)(U)(B)
 河童 (...
+
+
+比忌奈（ひきな）
+
+星辰を見るもの (R)
+
+コインが表だった場合、あなたは土地 1 つをアンタップする。
+
+神鳴り (1)(R)
+部族インスタント、スピリット
+3 点バーン
+連繫 (R) (スピリット呪文
+
+神鳴り (R)
+部族インスタント、スピリット
+クリーチャー 3 点ダメージ
+連繫 (R) (スピリット呪文
+
+
+正体不明の鵺、手札がないときに変身も追放されもしないのに気付いた。面白いじゃん。
+
+森潜み、いずれかのプレイヤーが森をコントロールしていたときブロックされない
+戦乱潜み、何体以上のクリーチャーが戦場に出ていたときブロックされない
+
+貧乏神 疫病神 死神
+
+
+ひび割れた正気
+
+Whenever you discard a card, ~ deals 3 damages to any target.
+
+火車、死体を使ってなんかする？
+
+猫、狐、狸
+
+輪廻、転生のスピリットに限定しないバージョン
+
+清き姫
+
+Grow Bamboo
+月の姫
+The Princess of Moon
+
+あなたがこのカードを捨てたとき、
+
+
+月の大神
+Turn target permanent face down.
+Transform target permanent.
+Target creature gets -5/-5 until end of turn.
