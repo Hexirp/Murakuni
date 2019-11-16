@@ -64,6 +64,30 @@
 
 ただ、少しデメリットがきつすぎるかもしれない。こういうデメリットは例がないみたいだけど、おそらく重すぎるのだと思う。
 
+## Taisho of Zubera / ずべらの大将
+
+> Taisho of Zubera (1)(W)(B)
+>
+> Creature — Zubera Spirit
+>
+> Each creature is Zubera in addition to its other types.
+>
+> When Taisho of Zubera dies, return a Zubera creature card from your graveyard to the battlefield for each Zubera that died this turn.
+>
+> 2 / 4
+
+> ずべらの大将 (1)(W)(B)
+>
+> クリーチャー — ずべら スピリット
+>
+> 各クリーチャーは、それの他のタイプに加えてずべらである。
+>
+> ずべらの大将が死亡したとき、このターンに死亡したずべら 1 つにつき、ずべらクリーチャー・カード 1 枚をあなたの墓地から戦場に戻す。
+>
+> 2 / 4
+
+ずべらのロード的なものである。身の回りの人がのっぺらぼうになるというフレーバーを表現した。
+
 ## Lake Cloud / 湖雲（みずうみぐも）
 
 > Lake Cloud
