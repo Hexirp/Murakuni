@@ -1,5 +1,23 @@
 # Rare
 
+## Kami of Fire / 火の神
+
+> **Kami of Fire** (W)(W)(R)(R)
+>
+> Legendary Creature — Spirit
+>
+> Renewal 6 (When this permanent is put into a graveyard from the battlefield, you may return any number target cards with total converted mana cost 6 ot less from your graveyard to your hand.)
+>
+> 6 / 4
+
+> **火の神** (W)(W)(R)(R)
+>
+> 伝説のクリーチャー — スピリット
+>
+> 輪廻 6 (このパーマネントが戦場から墓地に置かれたとき、あなたの墓地にあるそれらの点数で見たマナ・コストの合計が 6 以下である好きな数のカードを対象とし、それらをあなたの手札に戻してもよい。）
+>
+> 6 / 4
+
 ## Kami of Star / 星の神
 
 > **Kami of Star** (R)(R)(G)(G)
